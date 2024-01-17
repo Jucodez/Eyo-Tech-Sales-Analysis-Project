@@ -208,41 +208,16 @@ The performance analysis dashboard is presented below
 &nbsp;
 This report was published online for easy access by key stakeholders in the company.
 
-
-
 ### Key Insights / Data-Driven Strategy
 
 #### Revenue Analysis Dashboard
-
 ****
-
-
-
 ![revenue analysis dashnboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/9602b5b0-ef01-4344-b13f-8e5c40482080)
-
-
 ****
-
-\
-
-&nbsp;
-
-
 1. Revenue trend analysis: 
-
-&nbsp;
-
-
 ****
-
-
 ![Revenue trend analysis](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/fb40ccaa-5cc8-4b78-9d7d-3064d64bdb25)
-
-
 ****
-
-&nbsp;
-
 
 A somewhat steady downward trend in revenue was discovered from 2018-2020, with a sharp decline in the early portion of 2020
 
@@ -258,56 +233,28 @@ This prompted the need for a Profit Analysis Dashboard.
 
 
 #### Profit Analysis Dashboard
-
-
 ****
-
-
 ![Profit Analysis Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/4ed79cd0-5d8c-4175-8586-5fde6b653136)
-
 ****
-
-
-&nbsp;
-
-
 Although the dashboard uncovers insight for the total period of time covered by the dataset, the period of reference for the following key insights is the First half of 2020, as this is the major area of concern for the sales team.
-
-
 1. Operation Efficiency By Market
-
-
-- Revenue and profit contribution by market: 
-
+- Revenue and profit contribution by market:
 
   ![Revenue and profit contribution by market](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/4b85c0b8-e4bb-4241-8b34-13fcb5292275)
-
-
+  
    The Delhi NCR market had the best contribution to revenue (54.7%); however, its profit contribution was second with a mere (22.1%). While the Mumbai market had the second highest revenue contribution (14.2%) but the highest profit contribution (23.9%).
-
-
-- Profit Margin % by Market: 
-
+- Profit Margin % by Market:
 
   ![Profit margin% by market](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/3f059d76-e210-4497-853c-a7811bc04805)
-
-
+  
    Mumbai came in sixth (2.4%), but more efficient markets that placed higher contributed significantly less to the profit of the organization. Out of the 5 more efficient markets, Chennai was the most profitable, with a profit contribution of 7.6% (5th) and a profit margin % of 6.3% (3rd). Delhi NCR, our biggest contributor to revenue, had an outstandingly poor profit margin % of 0.6%, placing 11 out of the 13 markets. Some Markets like Lucknow were also discovered to be running at a loss (-2.7%).
-
-
 **Analysis** 
-
-
 This shows the need for the company to adopt cost-saving measures in the Delhi NCR market. Cost-effective and profitable markets like  Mumbai should be examined further to understand how cost-effective practices can be transferred where possible to other markets. Also, operations in markets contributing little to profit or even running at a loss need to be examined further for cost-saving practices to be performed.
 
 
 2. Operation Efficiency By Customer
 
-&nbsp;
-
 ![customer operation efficiency](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/e036abaa-4bc0-46a6-ad2e-3301643b26d4)
-
-&nbsp;
 
 - Profit contribution by Customer: Excel Stores, Surge Stores, and Electricalsara Stores contribute the most to the profit of the company (12.5%,11.9%, and 11.9%, respectively). This highlighted the lack of efficiency in operations dealing with Electricalsara Stores, which is the biggest revenue contributor (46.2%). Excel Stores had the second-highest contribution to revenue (5.6%). Excel Stores operations might be a good system to examine for cost cost saving techniques as regards other customers.
 
@@ -355,13 +302,10 @@ Due to the cost-saving initiatives to be undertaken, a performance-tracking dash
 ****
 
 
-&nbsp;
-
-
 Although the dashboard uncovers insight for the total period of time covered by the dataset, the period of reference for the following key insights is the First half of 2020, as this is the major area of concern for the sales team.
 
 
-- Profit Margin % Trend: 
+1. Profit Margin % Trend: 
 
 
   ![Performance trend](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/71c30d05-7b2d-4da1-a77e-35e5a1c45f96)
@@ -370,7 +314,7 @@ Although the dashboard uncovers insight for the total period of time covered by 
   An initial downward trend was observed from January to February and then a steady fluctuation throughout the remaining months.
 
 
-- Profit Margin % by Market Performance: 
+2. Profit Margin % by Market Performance: 
 
 
   ![red alert 2](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/78e8627c-5448-45cf-8aed-421e90247e2b)
