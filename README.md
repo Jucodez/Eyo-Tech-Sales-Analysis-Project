@@ -189,56 +189,24 @@ A star data model was adopted, with the transactions table serving as the facts 
 ### DASHBOARDING
 
 - A three-page report was developed to help visualize key parameters relevant to revenue, profit, and performance analysis
-
-
-
 ****
-
-\
-
 &nbsp;
-
 The revenue analysis dashboard is presented below
-
-
+****
 ![revenue analysis dashnboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/9602b5b0-ef01-4344-b13f-8e5c40482080)
-
-
 ****
-
-\
-
 &nbsp;
-
 The profit analysis dashboard is presented below
-
 ****
-
-
 ![Profit Analysis Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/4ed79cd0-5d8c-4175-8586-5fde6b653136)
-
 ****
-
-\
-
 &nbsp;
-
 The performance analysis dashboard is presented below
-
 ****
-
-
 ![Performance Analysis Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/e39291c3-fc00-40db-8a42-acdfa37be7fc)
-
 ****
-
-\
-
 &nbsp;
-
-
-
-- This report was published online for easy access by key stakeholders in the company.
+This report was published online for easy access by key stakeholders in the company.
 
 
 
