@@ -6,7 +6,7 @@
 Uttam Tech is a company that supplies computer hardware and peripherals to many clients like Excel stores and Electricalsara stores across India. Uttam Tech Hardware has its head office situated in Delhi, India with regional offices throughout India.
 
 
-Rivaan Burman is the Sales director for this company and is facing a lot of challenges dealing with the rapid changes in the market resulting in the decline of overall sales and profitability. The sales director has issues tracking the key sales data of various regions that should have aided him in decision-making. This is due to verbal communication being relied upon to transmit sales KPIs between the regional managers and the sales director. Although sales data is also stored in Excel files, the limited analytics capability of the firm hinders its sales director from gaining meaningful insight from it.
+Rivaan Burman is the Sales director for this company and is facing a lot of challenges dealing with the rapid changes in the market, resulting in the decline of overall sales and profitability. The sales director has issues tracking the key sales data of various regions that should have aided him in decision-making. This is due to verbal communication being relied upon to transmit sales KPIs between the regional managers and the sales director. Although sales data is also stored in Excel files, the limited analytics capability of the firm hinders its sales director from gaining meaningful insight from it.
 
 
 The sales director needs to have a clear and understandable overview of the sales data to gain insights that would aid in decision-making. These data-driven decisions are essential in Uttam Tech turning the trajectory of its sales around.
@@ -326,5 +326,5 @@ Although the dashboard uncovers insight for the total period of time covered by 
 ## Conclusion 
 
 
-Overall, this report helps the sales team devise ways to cope with the turbulent market and identify ways to improve operations. The analysis also 1sheds light on how profits can be increased through cost-efficiency initiatives.
+Overall, this report helps the sales team devise ways to cope with the turbulent market and identify ways to improve operations. The analysis also sheds light on how profits can be increased through cost-efficiency initiatives.
 
