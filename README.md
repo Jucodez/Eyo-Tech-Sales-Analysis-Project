@@ -193,17 +193,17 @@ A star data model was adopted, with the transactions table serving as the facts 
 &nbsp;
 The revenue analysis dashboard is presented below
 ****
-![revenue analysis dashnboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/9602b5b0-ef01-4344-b13f-8e5c40482080)
+![revenue dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/8f82937e-fc18-45d9-94a8-4f838276442a)
 ****
 &nbsp;
 The profit analysis dashboard is presented below
 ****
-![Profit Analysis Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/4ed79cd0-5d8c-4175-8586-5fde6b653136)
+![Profit Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/e1cb9854-08fd-41bd-b027-867c14dc49f0)
 ****
 &nbsp;
 The performance analysis dashboard is presented below
 ****
-![Performance Analysis Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/e39291c3-fc00-40db-8a42-acdfa37be7fc)
+![Performance Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/800ef700-1dc6-4be0-a776-c12fefeaa018)
 ****
 &nbsp;
 This report was published online for easy access by key stakeholders in the company.
@@ -212,11 +212,11 @@ This report was published online for easy access by key stakeholders in the comp
 
 #### Revenue Analysis Dashboard
 ****
-![revenue analysis dashnboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/9602b5b0-ef01-4344-b13f-8e5c40482080)
+![revenue dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/8f82937e-fc18-45d9-94a8-4f838276442a)
 ****
 1. Revenue trend analysis: 
 ****
-![Revenue trend analysis](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/fb40ccaa-5cc8-4b78-9d7d-3064d64bdb25)
+![revenue trend](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/106864fe-bc74-4a4b-8463-a6f066a9ccde)
 ****
 
 A somewhat steady downward trend in revenue was discovered from 2018-2020, with a sharp decline in the early portion of 2020
@@ -234,18 +234,18 @@ This prompted the need for a Profit Analysis Dashboard.
 
 #### Profit Analysis Dashboard
 ****
-![Profit Analysis Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/4ed79cd0-5d8c-4175-8586-5fde6b653136)
+![Profit Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/e1cb9854-08fd-41bd-b027-867c14dc49f0)
 ****
 Although the dashboard uncovers insight for the total period of time covered by the dataset, the period of reference for the following key insights is the First half of 2020, as this is the major area of concern for the sales team.
 1. Operation Efficiency By Market
 - Revenue and profit contribution by market:
 
-  ![Revenue and profit contribution by market](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/4b85c0b8-e4bb-4241-8b34-13fcb5292275)
+  ![revenue and profit](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/bef75acd-6397-403a-a662-19815228b27e)
   
    The Delhi NCR market had the best contribution to revenue (54.7%); however, its profit contribution was second with a mere (22.1%). While the Mumbai market had the second highest revenue contribution (14.2%) but the highest profit contribution (23.9%).
 - Profit Margin % by Market:
 
-  ![Profit margin% by market](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/3f059d76-e210-4497-853c-a7811bc04805)
+  ![profit margin %](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/a0543d63-43eb-45e2-a3b9-fac5717c4822)
   
    Mumbai came in sixth (2.4%), but more efficient markets that placed higher contributed significantly less to the profit of the organization. Out of the 5 more efficient markets, Chennai was the most profitable, with a profit contribution of 7.6% (5th) and a profit margin % of 6.3% (3rd). Delhi NCR, our biggest contributor to revenue, had an outstandingly poor profit margin % of 0.6%, placing 11 out of the 13 markets. Some Markets like Lucknow were also discovered to be running at a loss (-2.7%).
 **Analysis** 
@@ -254,7 +254,7 @@ This shows the need for the company to adopt cost-saving measures in the Delhi N
 
 2. Operation Efficiency By Customer
 
-![customer operation efficiency](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/e036abaa-4bc0-46a6-ad2e-3301643b26d4)
+![customer table](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/118c5d21-abcd-4a9c-a89d-cdca11439550)
 
 - Profit contribution by Customer: Excel Stores, Surge Stores, and Electricalsara Stores contribute the most to the profit of the company (12.5%,11.9%, and 11.9%, respectively). This highlighted the lack of efficiency in operations dealing with Electricalsara Stores, which is the biggest revenue contributor (46.2%). Excel Stores had the second-highest contribution to revenue (5.6%). Excel Stores operations might be a good system to examine for cost cost saving techniques as regards other customers.
 
@@ -276,7 +276,7 @@ Customer operations running at a loss need to be investigated immediately. Areas
 - Profit contribution by product type: 
 
 
-  ![Product Profit analysis](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/7493bc74-0845-4fbc-b188-8be7cca061b5)
+  ![profit by product](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/723b5d45-1bc7-4383-b4d0-8409fa61fe59)
 
 
   Products produced by the company ( Own Brand) were discovered to contribute the most to profit (78.3%), while Distribution Products contributed just (21.7%)
@@ -297,7 +297,7 @@ Due to the cost-saving initiatives to be undertaken, a performance-tracking dash
 ****
 
 
-![Performance Analysis Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/e39291c3-fc00-40db-8a42-acdfa37be7fc)
+![Performance Dashboard](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/800ef700-1dc6-4be0-a776-c12fefeaa018)
 
 ****
 
@@ -308,7 +308,7 @@ Although the dashboard uncovers insight for the total period of time covered by 
 1. Profit Margin % Trend: 
 
 
-  ![Performance trend](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/71c30d05-7b2d-4da1-a77e-35e5a1c45f96)
+  ![performance trend](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/876b3cc8-92b1-4de0-bfee-5d0591522818)
 
 
   An initial downward trend was observed from January to February and then a steady fluctuation throughout the remaining months.
@@ -317,7 +317,7 @@ Although the dashboard uncovers insight for the total period of time covered by 
 2. Profit Margin % by Market Performance: 
 
 
-  ![red alert 2](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/78e8627c-5448-45cf-8aed-421e90247e2b)
+  ![red alert](https://github.com/Jucodez/Uttam-Tech-Sales-Analysis-Project/assets/102746691/640e0a3d-bac8-42e0-b34f-536ab91edf28)
 
 
   A red alert was created on a Profit Margin % by Market visual to help decision makers quickly identify markets performing below the desired profit margin % target of 2.0%. 
