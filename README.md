@@ -49,8 +49,9 @@ The sales director needs to have a clear and understandable overview of the sale
 ### Data Exploration
 
 
-The data analysis process started off with an SQL Server Database.
+The data analysis process started off with examining the data contained in a Microsoft Excel workbook.
 
+This data was transferred to a Microsoft SQL Server Database using SQL Server Integration Services (SSIS).
 
 The tables in the database are:
 
