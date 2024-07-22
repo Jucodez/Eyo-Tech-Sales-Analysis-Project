@@ -184,7 +184,7 @@ A star data model was adopted, with the transactions table serving as the facts 
 - Calculate profit margin % by dividing profit margin by revenue.
 
 
-      profit margin % = ([profit margin]/[Revenue]))
+      profit margin % = ([profit margin]/[Revenue])
 
 
 ### DASHBOARDING
